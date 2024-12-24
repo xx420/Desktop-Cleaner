@@ -19,3 +19,8 @@ This line of code assigns the path to the user's "Downloads" folder to the varia
 ```
 download_folder = str(Path.home() / "Downloads")  # Change the Downloads with your download folders path
 ```
+
+Run the file:
+```
+python clener.py
+```
