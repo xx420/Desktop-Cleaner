@@ -1,4 +1,4 @@
-#How the Code Works
+## How the Code Works
 
 Desktop Cleaner Script Explanation
 This Python script organizes files in your Downloads folder by moving them into specific folders based on their file type (e.g., Images, Documents, Audio, etc.). Here's a breakdown of how the code works:
